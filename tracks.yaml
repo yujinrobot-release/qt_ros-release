@@ -12,6 +12,7 @@ tracks:
     name: qt_ros
     patches: null
     release_inc: -1
+    release_repo_url: https://github.com/yujinrobot-release/qt_ros-release.git
     release_tag: :{version}
     ros_distro: groovy
     vcs_type: git
