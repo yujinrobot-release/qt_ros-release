@@ -32,7 +32,7 @@ tracks:
     name: qt_ros
     patches: null
     release_inc: -1
-    release_repo_url: https://github.com/yujinrobot/qt_ros-release.git
+    release_repo_url: https://github.com/yujinrobot-release/qt_ros-release.git
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
