@@ -4,8 +4,9 @@
 
 Includes templates and create scripts for quickly developing qt-based ros packages.
 
-* catkin-create-qt-pkg for quickly templating a qt-ros package.
+* roscreate-qt-pkg for quickly templating a qt-ros package.
 * Includes a master chooser as a docking element.
+* Rosbuild and rosbuild2 supported.
 
 === Roadmap ===
 
