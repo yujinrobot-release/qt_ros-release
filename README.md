@@ -1,3 +1,26 @@
+## qt_ros (hydro) - 0.2.4-0
+
+User `snorri@snorriheim` released the packages in the `qt_ros` repository into the `hydro` distro by running `/usr/bin/bloom-release --track hydro --rosdistro hydro qt_ros` on `Tue, 04 Mar 2014 05:05:21 -0000`
+
+These packages were released:
+- `qt_build`
+- `qt_create`
+- `qt_ros`
+- `qt_tutorials`
+
+Version of package(s) in repository `qt_ros`:
+- rosdistro version: `0.2.3-0`
+- old version: `0.2.3-0`
+- new version: `0.2.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.1`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.3`
+- vcstools version: `0.1.31`
+
+
 ## qt_ros - 0.2.3-0
 
 User `snorri@snorriheim` released the packages in the `qt_ros` repository by running `/usr/bin/bloom-release --track hydro --rosdistro hydro qt_ros` on `Sat, 18 Jan 2014 08:05:27 -0000`
