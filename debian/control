@@ -1,0 +1,12 @@
+Source: ros-indigo-qt-ros
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://www.ros.org/wiki/qt_ros
+Standards-Version: 3.9.2
+
+Package: ros-indigo-qt-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-qt-build, ros-indigo-qt-create, ros-indigo-qt-tutorials
+Description: Simple qt cmake build tools and master-chooser style application template.
