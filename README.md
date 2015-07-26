@@ -1,3 +1,28 @@
+## qt_ros (indigo) - 0.2.8-0
+
+The packages in the `qt_ros` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo qt_ros` on `Sun, 26 Jul 2015 11:26:51 -0000`
+
+These packages were released:
+- `qt_build`
+- `qt_create`
+- `qt_ros`
+- `qt_tutorials`
+
+Version of package(s) in repository `qt_ros`:
+- upstream repository: https://github.com/stonier/qt_ros.git
+- release repository: https://github.com/yujinrobot-release/qt_ros-release.git
+- rosdistro version: `0.2.7-1`
+- old version: `0.2.7-1`
+- new version: `0.2.8-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.3`
+- rosdep version: `0.10.28`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## qt_ros (indigo) - 0.2.7-1
 
 The packages in the `qt_ros` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo qt_ros` on `Mon, 28 Jul 2014 15:28:09 -0000`
