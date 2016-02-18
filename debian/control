@@ -1,0 +1,12 @@
+Source: ros-indigo-qt-create
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-qt-build
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-qt-create
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Provides templates and scripts for creating qt-ros packages (similar to roscreate-pkg).

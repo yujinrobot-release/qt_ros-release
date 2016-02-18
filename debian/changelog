@@ -1,0 +1,43 @@
+ros-indigo-qt-create (0.2.9-0trusty) trusty; urgency=high
+
+  * add dependency on qt_build so an app can be created and compiled immediately
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 18 Feb 2016 15:00:00 -0000
+
+ros-indigo-qt-create (0.2.8-0trusty) trusty; urgency=high
+
+  * bugfix catkin package depend tags
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sat, 25 Jul 2015 15:00:00 -0000
+
+ros-indigo-qt-create (0.2.7-0trusty) trusty; urgency=high
+
+  * update for indigo
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sat, 26 Jul 2014 15:00:00 -0000
+
+ros-indigo-qt-create (0.2.6-0trusty) trusty; urgency=high
+
+  * bugfix catkin crawling of the templates directory.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sat, 28 Jun 2014 15:00:00 -0000
+
+ros-indigo-qt-create (0.2.4-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 03 Mar 2014 15:00:00 -0000
+
+ros-indigo-qt-create (0.2.3-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Fri, 17 Jan 2014 15:00:00 -0000
+
+ros-indigo-qt-create (0.2.2-0trusty) trusty; urgency=high
+
+  * Catkinize for hydro.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 23 Oct 2013 15:00:00 -0000
+
+
