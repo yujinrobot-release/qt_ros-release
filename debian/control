@@ -1,0 +1,12 @@
+Source: ros-kinetic-qt-create
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-qt-build
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-qt-create
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Provides templates and scripts for creating qt-ros packages (similar to roscreate-pkg).
