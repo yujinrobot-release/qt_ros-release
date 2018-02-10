@@ -1,3 +1,30 @@
+## qt_ros (kinetic) - 0.2.10-0
+
+The packages in the `qt_ros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic qt_ros` on `Sat, 10 Feb 2018 17:48:25 -0000`
+
+These packages were released:
+- `qt_build`
+- `qt_create`
+- `qt_ros`
+- `qt_tutorials`
+
+Version of package(s) in repository `qt_ros`:
+
+- upstream repository: https://github.com/stonier/qt_ros.git
+- release repository: https://github.com/yujinrobot-release/qt_ros-release.git
+- rosdistro version: `0.2.9-0`
+- old version: `0.2.9-0`
+- new version: `0.2.10-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.8`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## qt_ros (kinetic) - 0.2.9-0
 
 The packages in the `qt_ros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic qt_ros` on `Sat, 13 Aug 2016 02:02:40 -0000`
