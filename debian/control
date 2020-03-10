@@ -1,0 +1,12 @@
+Source: ros-melodic-qt-ros
+Section: misc
+Priority: optional
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://www.ros.org/wiki/qt_ros
+Standards-Version: 3.9.2
+
+Package: ros-melodic-qt-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-qt-build, ros-melodic-qt-create, ros-melodic-qt-tutorials
+Description: Simple qt cmake build tools and master-chooser style application template.
