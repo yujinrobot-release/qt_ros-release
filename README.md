@@ -1,3 +1,30 @@
+## qt_ros (melodic) - 0.2.10-1
+
+The packages in the `qt_ros` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic qt_ros` on `Tue, 10 Mar 2020 13:08:51 -0000`
+
+These packages were released:
+- `qt_build`
+- `qt_create`
+- `qt_ros`
+- `qt_tutorials`
+
+Version of package(s) in repository `qt_ros`:
+
+- upstream repository: https://github.com/stonier/qt_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.10-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.40`
+
+
 ## qt_ros (kinetic) - 0.2.10-0
 
 The packages in the `qt_ros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic qt_ros` on `Sat, 10 Feb 2018 17:48:25 -0000`
